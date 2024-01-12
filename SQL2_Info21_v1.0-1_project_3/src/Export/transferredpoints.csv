@@ -1,0 +1,9 @@
+id,checking_peer,checked_peer,points_amount
+1,Alex Muss,Harry Potter,1
+2,Harry Potter,Alex Muss,5
+3,Hermione Granger,Alex Muss,3
+4,Ginevra Weasley,Hermione Granger,7
+5,Draco Malfoy,Vincent Crabbe,2
+6,Vincent Crabbe,Draco Malfoy,4
+7,Hermione Granger,Vincent Crabbe,3
+8,Harry Potter,Draco Malfoy,1

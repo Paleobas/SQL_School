@@ -1,0 +1,14 @@
+id,peer,recommended_peer
+1,Ginevra Weasley,Alex Muss
+2,Alex Muss,Ginevra Weasley
+3,Alex Muss,Harry Potter
+4,Harry Potter,Hermione Granger
+5,Hermione Granger,Ginevra Weasley
+6,Vincent Crabbe,Ronald Weasley
+7,Ginevra Weasley,Draco Malfoy
+8,Ronald Weasley,Ginevra Weasley
+9,Ginevra Weasley,Ronald Weasley
+10,Ronald Weasley,Vincent Crabbe
+11,Harry Potter,Alex Muss
+12,Hermione Granger,Harry Potter
+13,Draco Malfoy,Ginevra Weasley
